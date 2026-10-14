@@ -1,0 +1,14 @@
+{
+    "model": "Tuned XGBoost",
+    "task": "Renewable Energy Output Prediction",
+    "target": "AC_POWER",
+    "test_samples": 21516,
+    "MAE": 47.321958,
+    "RMSE": 133.98434,
+    "R2": 0.844638,
+    "Clipped_MAE": 46.944916,
+    "Clipped_RMSE": 133.978609,
+    "Clipped_R2": 0.844651,
+    "negative_predictions": 3157,
+    "negative_predictions_percent": 14.672802
+}
